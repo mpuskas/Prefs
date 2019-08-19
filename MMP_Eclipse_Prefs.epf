@@ -1,4 +1,4 @@
-#Mon Jun 10 09:26:11 MST 2019
+#Mon Aug 19 14:23:28 MST 2019
 \!/=
 /instance/com.cthing.cmakeed.ui/cmake_propertyColor=255,255,255
 /instance/com.cthing.cmakeed.ui/cmake_user_variableColor=147,162,204
@@ -8,7 +8,13 @@
 /instance/com.cthing.cmakeed.ui/commentColor=127,159,127
 /instance/com.cthing.cmakeed.ui/stringColor=204,147,147
 /instance/com.cthing.cmakeed.ui/variableColor=147,162,204
+/instance/com.googlecode.cppcheclipse.core/checkForce=true
 /instance/org.eclipse.cdt.core/doctool/workspace.default=org.eclipse.cdt.ui.doxygen
+/instance/org.eclipse.cdt.make.ui/org.eclipse.cdt.make.ui.editor.comment=127,159,127
+/instance/org.eclipse.cdt.make.ui/org.eclipse.cdt.make.ui.editor.default=226,226,226
+/instance/org.eclipse.cdt.make.ui/org.eclipse.cdt.make.ui.editor.function=223,190,149
+/instance/org.eclipse.cdt.make.ui/org.eclipse.cdt.make.ui.editor.keyword=141,203,226
+/instance/org.eclipse.cdt.make.ui/org.eclipse.cdt.make.ui.editor.macro_ref=147,162,204
 /instance/org.eclipse.cdt.ui/asm_directive=141,203,226
 /instance/org.eclipse.cdt.ui/asm_label=226,226,226
 /instance/org.eclipse.cdt.ui/c_braces=255,255,255
@@ -135,12 +141,15 @@
 /instance/org.eclipse.cdt.ui/sourceHoverBackgroundColor=52,57,61
 /instance/org.eclipse.cdt.ui/sourceHoverBackgroundColor.SystemDefault=false
 /instance/org.eclipse.cdt.ui/spelling_locale_initialized=true
+/instance/org.eclipse.cdt.ui/spelling_user_dictionary_encoding=
 /instance/org.eclipse.ui.editors/org.eclipse.cdt.ui.occurrenceIndicationColor=39,39,39
 /instance/org.eclipse.ui.editors/org.eclipse.cdt.ui.overrideIndicatorColor=150,197,193
 /instance/org.eclipse.ui.editors/org.eclipse.cdt.ui.writeOccurrenceIndicationColor=39,39,39
 /instance/org.eclipse.ui.workbench/org.eclipse.ui.commands=<?xml version\="1.0" encoding\="UTF-8"?>\n<org.eclipse.ui.commands>\n<keyBinding commandId\="org.eclipse.cdt.ui.edit.text.c.toggle.source.header" contextId\="org.eclipse.cdt.ui.cEditorScope" keyConfigurationId\="org.eclipse.ui.defaultAcceleratorConfiguration" keySequence\="ALT+CTRL+TAB"/>\n<keyBinding commandId\="org.eclipse.ui.window.nextEditor" contextId\="org.eclipse.ui.contexts.window" keyConfigurationId\="org.eclipse.ui.defaultAcceleratorConfiguration" keySequence\="CTRL+TAB"/>\n<keyBinding contextId\="org.eclipse.cdt.ui.cEditorScope" keyConfigurationId\="org.eclipse.ui.defaultAcceleratorConfiguration" keySequence\="CTRL+TAB"/>\n<keyBinding commandId\="org.eclipse.ui.navigate.previousTab" contextId\="org.eclipse.ui.contexts.window" keyConfigurationId\="org.eclipse.ui.defaultAcceleratorConfiguration" keySequence\="CTRL+SHIFT+TAB"/>\n<keyBinding contextId\="org.eclipse.ui.contexts.window" keyConfigurationId\="org.eclipse.ui.defaultAcceleratorConfiguration" keySequence\="CTRL+F6"/>\n</org.eclipse.ui.commands>
 @com.cthing.cmakeed.ui=1.8.0
+@com.googlecode.cppcheclipse.core=1.1.0.v20160724-1648
 @org.eclipse.cdt.core=6.2.0.201704050430
+@org.eclipse.cdt.make.ui=7.3.0.201704050430
 @org.eclipse.cdt.ui=6.1.0.201704050430
 @org.eclipse.ui.editors=3.10.1.v20161106-1856
 @org.eclipse.ui.workbench=3.108.3.v20170216-1539
