@@ -143,3 +143,11 @@ function term() {
 }
 export -f term
 
+function pycharm() { command /home/mpuskas/pycharm/pycharm-community-2019.1.3/bin/pycharm.sh "$@" > /dev/null 2>&1 & }
+export -f pycharm
+
+function eclipse() { command /home/mpuskas/eclipse/eclipse "$@" > /dev/null 2>&1 & }
+export -f eclipse
+
+ export WORKON_HOME=/home/mpuskas/.virtual_environments source /usr/local/bin/virtualenvwrapper.sh 
+
